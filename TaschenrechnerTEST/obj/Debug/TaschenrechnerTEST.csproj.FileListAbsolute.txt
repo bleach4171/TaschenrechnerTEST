@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\TaschenrechnerTEST\bin\Debug\TaschenrechnerTEST.exe.config
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\TaschenrechnerTEST\bin\Debug\TaschenrechnerTEST.exe
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\TaschenrechnerTEST\bin\Debug\TaschenrechnerTEST.pdb
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\TaschenrechnerTEST\obj\Debug\TaschenrechnerTEST.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\TaschenrechnerTEST\obj\Debug\TaschenrechnerTEST.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\TaschenrechnerTEST\obj\Debug\TaschenrechnerTEST.exe
+C:\Users\Student\source\repos\BW_Akhmed_Osmayev_1WA\TaschenrechnerTEST\obj\Debug\TaschenrechnerTEST.pdb
